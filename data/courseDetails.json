@@ -1,0 +1,51 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "title": "Introduction to Python Development For Beginners",
+        "image_url": "https://miro.medium.com/max/1400/1*Zipt5ex6sSVSkciwlJoG4Q.png",
+        "details": "This course is designed to teach you how to program using Python.We’ll cover the building blocks of the language, programming design fundamentals, how to use the standard library, third-party packages, and how to create Python projects. In the end, you should have a grasp of how to program.By the time you’ve finished this course, you will be able to: 1. Read, write, and understand Python code. 2. Understand the basics of object-oriented programming (OOP).3. Utilize Python as a primary language for tooling. 4. Develop Python projects from start to finish."
+    },
+    {
+        "_id": "028jd2a5c404fbd1djd888di8n299",
+        "category_id": "02",
+        "title": "Visualize Data With Python",
+        "image_url": "https://cdn-images-1.medium.com/max/800/1*JxbqIQmD_E3M3I7Tjo0OqA.jpeg",
+        "details": "Master the main data analysis and visualization libraries in Python: Numpy, Pandas, Matplotlib, Seaborn, Plotly + more.Python, we will be using Python3 in this course. Data Analysis Libraries in Python such as NumPy and Pandas. Data Visualization Libraries in Python such as Matplotlib and Seaborn. How to analyse data. Data Visualization. Jupyter Notebooks IDE / Anaconda Distribution."
+    },
+    {
+        "_id": "04g2e0ee4648ejf3bd15261f11c2ab6a",
+        "category_id": "03",
+        "title": "Build a backend rest API",
+        "image_url": "https://www.opensourceforu.com/wp-content/uploads/2017/10/Rest-API-illustration.jpg",
+        "details": "Create an advanced REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD).What you'll learn-> Setting up a local development server with Docker.Writing a Python project using Test Driven Development.Building a REST API with advanced features such as uploading and viewing images.Creating a backend that can be used a base for your future projects or MVP.Hands on experience applying best practice principles such as PEP-8 and unit tests. Configure Travis-CI to automate code checking."
+    },
+    {
+        "_id": "00eun667b9363bb79oih61f11c2ab6a",
+        "category_id": "04",
+        "title": "Python for Data Science",
+        "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Pyhton-for-data-science-0.png",
+        "details": "What you'll learn->Use Python for Data Science and Machine Learning. Use Spark for Big Data Analysis,Implement Machine Learning Algorithms. Learn to use NumPy for Numerical Data. Learn to use Pandas for Data Analysis. Learn to use Matplotlib for Python Plotting. Learn to use Seaborn for statistical plots. Use Plotly for interactive dynamic visualizations. Use SciKit-Learn for Machine Learning Tasks. K-Means Clustering. Logistic Regression. Linear Regression. Random Forest and Decision Trees. Natural Language Processing and Spam Filters.Neural Networks.Support Vector Machines."
+    },
+    {
+        "_id": "0y3538580lp4aj64sh61f11c2ab6a",
+        "category_id": "05",
+        "title": "Build a Machine Learning Model With Python",
+        "image_url": "https://i.ytimg.com/vi/NRnaMCNOK7Y/maxresdefault.jpg",
+        "details": "Includes Python 3, scikit-learn, matplotlib, pandas, Jupyter Notebooks, and more.For those who want to-> Level up their Python skills.Learn advanced programming.Have fun with ML and AI.Earn.Certificate of Completion."
+    },
+    {
+        "_id": "0256hw90sh8syp3a00ns371c2ab6a",
+        "category_id": "06",
+        "title": "The Complete Python Programming Course",
+        "image_url": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg",
+        "details": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more! What you'll learn-> Create their own Python Programs. Become an experienced Python Programmer. Parse the Web and Create their own Games"
+    },
+    {
+        "_id": "09w66whh00s8s6sbs7wys7791c2ab6a",
+        "category_id": "07",
+        "title": "Learn Intermediate Python 3",
+        "image_url": "https://files.realpython.com/media/What-Does-the-Ellipsis-Mean-in-Python_Watermarked.37fe90f2c8c8.jpg",
+        "details": "About this course. If you’re looking for a programming language that’s flexible and easy to read, try learning Python. It’s one of the most popular languages today, and programming in Python is used for everything from web and software development to data science and analytics to quality assurance. Skills you’ll gain. Write Python 3 programs. Simplify the code you write. Take your skills off-platform"
+    }
+]
