@@ -16,29 +16,31 @@ app.get('/courses-categories', (req, res) => {
     res.send(categories)
 });
 
+app.get('/category', (req, res) => {
+    res.send(courseDetails);
+}
+)
+
 app.get('/course-details/:id', (req, res) => {
     const id = req.params.id;
+
+    const selectedCourse = courseDetails.find(c => c._id === id);
+    res.send(selectedCourse);
+}
+)
+
+app.get('/category/:id', (req, res) => {
+    const id = req.params.id;
+
     if (id === '08') {
-        res.send(news);
+        res.send(courseDetails);
     }
     else {
-        const selectedCourse = courseDetails.find(n => n._id === id);
-        res.send(selectedCourse);
+        const categoryCourses = courseDetails.filter(c => c.category_id === id);
+        res.send(categoryCourses);
     }
-})
 
-// app.get('/category/:id', (req, res) => {
-//     const id = req.params.id;
-
-//     if (id === '08') {
-//         res.send(news);
-//     }
-//     else {
-//         const categoryNews = news.filter(n => n.category_id === id);
-//         res.send(categoryNews);
-//     }
-
-// });
+});
 
 
 app.listen(port, () => {
