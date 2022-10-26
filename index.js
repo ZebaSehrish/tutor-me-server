@@ -1,20 +1,20 @@
 const express = require('express')
 const app = express();
-// const cors = require('cors')
+const cors = require('cors')
 const port = process.env.PORT || 5000;
 
-// app.use(cors());
+app.use(cors());
 
-// const categories = require('./data/categories.json');
+const categories = require('./data/categories.json');
 // const news = require('./data/news.json');
 
 app.get('/', (req, res) => {
     res.send('Courses API Running');
 });
 
-// app.get('/news-categories', (req, res) => {
-//     res.send(categories)
-// });
+app.get('/courses-categories', (req, res) => {
+    res.send(categories)
+});
 // app.get('/category/:id', (req, res) => {
 //     const id = req.params.id;
 
