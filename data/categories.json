@@ -1,34 +1,37 @@
 [
     {
-        "id": "01",
-        "name": "Python For beginners"
+        "category_id": "01",
+        "name": "Python For beginners",
+        "image_url": "https://miro.medium.com/max/1400/1*Zipt5ex6sSVSkciwlJoG4Q.png"
     },
     {
-        "id": "02",
-        "name": "Visualize Data With Python"
+        "category_id": "02",
+        "name": "Visualize Data With Python",
+        "image_url": "https://cdn-images-1.medium.com/max/800/1*JxbqIQmD_E3M3I7Tjo0OqA.jpeg"
     },
     {
-        "id": "03",
-        "name": "Build a backend rest API"
+        "category_id": "03",
+        "name": "Build a backend rest API",
+        "image_url": "https://www.opensourceforu.com/wp-content/uploads/2017/10/Rest-API-illustration.jpg"
     },
     {
-        "id": "04",
-        "name": "Python for Data Science"
+        "category_id": "04",
+        "name": "Python for Data Science",
+        "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Pyhton-for-data-science-0.png"
     },
     {
-        "id": "05",
-        "name": "Build a Machine Learning Model With Python"
+        "category_id": "05",
+        "name": "Build a Machine Learning Model With Python",
+        "image_url": "https://i.ytimg.com/vi/NRnaMCNOK7Y/maxresdefault.jpg"
     },
     {
-        "id": "06",
-        "name": "The Complete  Python Programming Course"
+        "category_id": "06",
+        "name": "The Complete  Python Programming Course",
+        "image_url": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg"
     },
     {
-        "id": "07",
-        "name": "Learn Intermediate Python 3"
-    },
-    {
-        "id": "08",
-        "name": "All courses"
+        "category_id": "07",
+        "name": "Learn Intermediate Python 3",
+        "image_url": "https://files.realpython.com/media/What-Does-the-Ellipsis-Mean-in-Python_Watermarked.37fe90f2c8c8.jpg"
     }
 ]

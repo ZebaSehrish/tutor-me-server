@@ -5,7 +5,7 @@
         "title": "Introduction to Python Development For Beginners",
         "image_url": "https://miro.medium.com/max/1400/1*Zipt5ex6sSVSkciwlJoG4Q.png",
         "info": "This course is designed to teach you how to program using Python.",
-        "details": "This course is designed to teach you how to program using Python.We’ll cover the building blocks of the language, programming design fundamentals, how to use the standard library, third-party packages, and how to create Python projects. In the end, you should have a grasp of how to program.By the time you’ve finished this course, you will be able to: 1. Read, write, and understand Python code. 2. Understand the basics of object-oriented programming (OOP).3. Utilize Python as a primary language for tooling. 4. Develop Python projects from start to finish."
+        "details": "We’ll cover the building blocks of the language, programming design fundamentals, how to use the standard library, third-party packages, and how to create Python projects. By the time you’ve finished this course, you will be able to: 1. Read, write, and understand Python code. 2.Utilize Python as a primary language for tooling. 4. Develop Python projects from start to finish."
     },
     {
         "_id": "0282e0e58a504fb4hey1526ehef11c2ab6a",
@@ -13,7 +13,7 @@
         "title": "Introduction to Python Development For Beginners",
         "image_url": "https://miro.medium.com/max/1400/1*Zipt5ex6sSVSkciwlJoG4Q.png",
         "info": "This course is designed to teach you how to program using Python.",
-        "details": "This course is designed to teach you how to program using Python.We’ll cover the building blocks of the language, programming design fundamentals, how to use the standard library, third-party packages, and how to create Python projects. In the end, you should have a grasp of how to program.By the time you’ve finished this course, you will be able to: 1. Read, write, and understand Python code. 2. Understand the basics of object-oriented programming (OOP).3. Utilize Python as a primary language for tooling. 4. Develop Python projects from start to finish."
+        "details": "We’ll cover the building blocks of the language, programming design fundamentals, how to use the standard library, third-party packages, and how to create Python projects. By the time you’ve finished this course, you will be able to: 1. Read, write, and understand Python code. 2.Utilize Python as a primary language for tooling. 4. Develop Python projects from start to finish."
     },
     {
         "_id": "028orn585bsr15261f11c2ab6a",
@@ -21,7 +21,7 @@
         "title": "Introduction to Python Development For Beginners",
         "image_url": "https://miro.medium.com/max/1400/1*Zipt5ex6sSVSkciwlJoG4Q.png",
         "info": "This course is designed to teach you how to program using Python.",
-        "details": "This course is designed to teach you how to program using Python.We’ll cover the building blocks of the language, programming design fundamentals, how to use the standard library, third-party packages, and how to create Python projects. In the end, you should have a grasp of how to program.By the time you’ve finished this course, you will be able to: 1. Read, write, and understand Python code. 2. Understand the basics of object-oriented programming (OOP).3. Utilize Python as a primary language for tooling. 4. Develop Python projects from start to finish."
+        "details": "We’ll cover the building blocks of the language, programming design fundamentals, how to use the standard library, third-party packages, and how to create Python projects. By the time you’ve finished this course, you will be able to: 1. Read, write, and understand Python code. 2.Utilize Python as a primary language for tooling. 4. Develop Python projects from start to finish."
     },
     {
         "_id": "028jd2a5c404fbd1djd888di8n299",
@@ -61,7 +61,7 @@
         "title": "Python for Data Science",
         "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Pyhton-for-data-science-0.png",
         "info": "Use Python for Data Science and Machine Learning.",
-        "details": "What you'll learn->Use Python for Data Science and Machine Learning. Use Spark for Big Data Analysis,Implement Machine Learning Algorithms. Learn to use NumPy for Numerical Data. Learn to use Pandas for Data Analysis. Learn to use Matplotlib for Python Plotting. Learn to use Seaborn for statistical plots. Use Plotly for interactive dynamic visualizations. Use SciKit-Learn for Machine Learning Tasks. K-Means Clustering. Logistic Regression. Linear Regression. Random Forest and Decision Trees. Natural Language Processing and Spam Filters.Neural Networks.Support Vector Machines."
+        "details": " Learn to use Matplotlib for Python Plotting. Learn to use Seaborn for statistical plots. Use Plotly for interactive dynamic visualizations. Use SciKit-Learn for Machine Learning Tasks. K-Means Clustering. Logistic Regression. Linear Regression. Random Forest and Decision Trees. Natural Language Processing and Spam Filters.Neural Networks.Support Vector Machines."
     },
     {
         "_id": "0256hw90484nd773nd8n90bs3a",
@@ -69,15 +69,7 @@
         "title": "Python for Data Science",
         "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Pyhton-for-data-science-0.png",
         "info": "Use Python for Data Science and Machine Learning.",
-        "details": "What you'll learn->Use Python for Data Science and Machine Learning. Use Spark for Big Data Analysis,Implement Machine Learning Algorithms. Learn to use NumPy for Numerical Data. Learn to use Pandas for Data Analysis. Learn to use Matplotlib for Python Plotting. Learn to use Seaborn for statistical plots. Use Plotly for interactive dynamic visualizations. Use SciKit-Learn for Machine Learning Tasks. K-Means Clustering. Logistic Regression. Linear Regression. Random Forest and Decision Trees. Natural Language Processing and Spam Filters.Neural Networks.Support Vector Machines."
-    },
-    {
-        "_id": "0256cw47du464dn64d888ab6a",
-        "category_id": "04",
-        "title": "Python for Data Science",
-        "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Pyhton-for-data-science-0.png",
-        "info": "Use Python for Data Science and Machine Learning.",
-        "details": "What you'll learn->Use Python for Data Science and Machine Learning. Use Spark for Big Data Analysis,Implement Machine Learning Algorithms. Learn to use NumPy for Numerical Data. Learn to use Pandas for Data Analysis. Learn to use Matplotlib for Python Plotting. Learn to use Seaborn for statistical plots. Use Plotly for interactive dynamic visualizations. Use SciKit-Learn for Machine Learning Tasks. K-Means Clustering. Logistic Regression. Linear Regression. Random Forest and Decision Trees. Natural Language Processing and Spam Filters.Neural Networks.Support Vector Machines."
+        "details": " Learn to use Matplotlib for Python Plotting. Learn to use Seaborn for statistical plots. Use Plotly for interactive dynamic visualizations. Use SciKit-Learn for Machine Learning Tasks. K-Means Clustering. Logistic Regression. Linear Regression. Random Forest and Decision Trees. Natural Language Processing and Spam Filters.Neural Networks.Support Vector Machines."
     },
     {
         "_id": "00eun667b9363bb79oih61f11c2ab6a",
