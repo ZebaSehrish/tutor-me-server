@@ -2,36 +2,37 @@
     {
         "category_id": "01",
         "name": "Python For beginners",
-        "image_url": "https://miro.medium.com/max/1400/1*Zipt5ex6sSVSkciwlJoG4Q.png"
+        "image_url": "https://miro.medium.com/max/1400/1*Zipt5ex6sSVSkciwlJoG4Q.png",
+        "info": "This course is designed to teach you how to program using Python."
     },
     {
         "category_id": "02",
         "name": "Visualize Data With Python",
+        "info": "Master the main data analysis and visualization libraries in Python:",
         "image_url": "https://cdn-images-1.medium.com/max/800/1*JxbqIQmD_E3M3I7Tjo0OqA.jpeg"
     },
     {
         "category_id": "03",
         "name": "Build a backend rest API",
+        "info": "Create an advanced REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD).",
         "image_url": "https://www.opensourceforu.com/wp-content/uploads/2017/10/Rest-API-illustration.jpg"
     },
     {
         "category_id": "04",
         "name": "Python for Data Science",
+        "info": "Use Python for Data Science and Machine Learning.",
         "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Pyhton-for-data-science-0.png"
     },
     {
         "category_id": "05",
         "name": "Build a Machine Learning Model With Python",
+        "info": "Includes Python 3, scikit-learn, matplotlib, pandas, Jupyter Notebooks, and more.",
         "image_url": "https://i.ytimg.com/vi/NRnaMCNOK7Y/maxresdefault.jpg"
     },
     {
         "category_id": "06",
-        "name": "The Complete  Python Programming Course",
-        "image_url": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg"
-    },
-    {
-        "category_id": "07",
         "name": "Learn Intermediate Python 3",
+        "info": "If you’re looking for a programming language that’s flexible and easy to read, try learning Python!",
         "image_url": "https://files.realpython.com/media/What-Does-the-Ellipsis-Mean-in-Python_Watermarked.37fe90f2c8c8.jpg"
     }
 ]
